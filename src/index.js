@@ -1,8 +1,9 @@
 /* @flow */
 
-import React, {PropTypes} from 'react';
+import React from 'react';
 import Kefir from 'kefir';
 import kefirBus from 'kefir-bus';
+import PropTypes from 'prop-types';
 
 type Props = {
   expanded: boolean;
