@@ -47,6 +47,7 @@
     "flow-copy-source": "^1.0.1",
     "jsdom": "^8.0.4",
     "mocha": "^2.4.5",
+    "prop-types": "^15.6.0",
     "react": "^15.0.0",
     "react-addons-test-utils": "^15.0.0",
     "react-dom": "^15.0.0",
